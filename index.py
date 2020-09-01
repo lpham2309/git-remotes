@@ -6,4 +6,5 @@ print('Oi troi oi nam nay het tien roi')
 
 print('Nho nha qua huhuhu')
 print('Hom nay la thu may hom nay la thu 2')
+print('Hello')
 
